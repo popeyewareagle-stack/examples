@@ -1,6 +1,10 @@
 # Query Parameters
 
-Build your API using Vercel Edge Functions (Experimental).
+Build your API using Vercel Edge Functions.
+
+## Demo
+
+https://edge-api-routes-query-parameters.vercel.app/api/edge?email=test@test.com
 
 ## How to Use
 

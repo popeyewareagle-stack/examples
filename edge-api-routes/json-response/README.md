@@ -1,6 +1,10 @@
 # JSON Reponse
 
-Build your API using Vercel Edge Functions (Experimental).
+Build your API using Vercel Edge Functions.
+
+## Demo
+
+https://edge-api-routes-json-response.vercel.app/api/edge
 
 ## How to Use
 

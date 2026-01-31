@@ -1,6 +1,10 @@
 # Cache Control Headers
 
-Build your API using Vercel Edge Functions (Experimental).
+Build your API using Vercel Edge Functions.
+
+## Demo
+
+https://edge-api-routes-cache-control.vercel.app/api/edge
 
 ## How to Use
 

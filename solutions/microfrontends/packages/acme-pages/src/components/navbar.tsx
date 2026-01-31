@@ -1,7 +1,7 @@
-import type { VFC } from 'react'
+import type { FC } from 'react'
 import { Link, A } from '@vercel/examples-ui'
 
-const Navbar: VFC<{ isDocsApp?: boolean }> = ({ isDocsApp }) =>
+const Navbar: FC<{ isDocsApp?: boolean }> = ({ isDocsApp }) =>
   isDocsApp ? (
     <ul className="inline-flex mb-4">
       <li>
